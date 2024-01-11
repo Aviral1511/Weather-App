@@ -1,0 +1,14 @@
+body {
+    background-color: #CFEED1;
+    background-image: url("../images/weather1.avif");
+    background-size: contain;
+
+}
+.SearchBox{
+    text-align: center;
+    place-items: center;
+}
+#city {
+    background-color: aquamarine; 
+
+}
